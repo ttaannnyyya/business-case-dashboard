@@ -25,7 +25,10 @@ ShopEasy faced declining customer engagement and conversion rates despite new ma
 
 ## Dashboard
 
-![Dashboard Screenshot](dashboard_image.png)
+![Dashboard Screenshot](https://github.com/ttaannnyyya/business-case-dashboard/blob/main/01.png)
+![Dashboard Screenshot](https://github.com/ttaannnyyya/business-case-dashboard/blob/main/02.png)
+![Dashboard Screenshot](https://github.com/ttaannnyyya/business-case-dashboard/blob/main/03.png)
+![Dashboard Screenshot](https://github.com/ttaannnyyya/business-case-dashboard/blob/main/04.png)
 
 ---
 
