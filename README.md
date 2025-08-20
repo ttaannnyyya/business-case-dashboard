@@ -8,7 +8,7 @@ ShopEasy faced declining customer engagement and conversion rates despite new ma
 
 ## ER Diagram
 
-![ER Diagram](er_diagram.png)
+![ER Diagram](https://github.com/ttaannnyyya/business-case-dashboard/blob/main/ER%20diagram.png)
 
 **What I Did:**  
 - Connected cleaned marketing datasets to **Power BI**.  
